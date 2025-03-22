@@ -347,3 +347,20 @@ footer a:hover
     
     color: rgb(3, 0, 201);
 }
+
+.iframe-container {
+    display: flex; /* Utilise Flexbox */
+    justify-content: center; /* Centre horizontalement */
+    align-items: center; /* Centre verticalement */
+    height: 40vh; /* Ajuste la hauteur du conteneur, ici la hauteur de la fenêtre */
+    background-color: #f3f3f3; /* Optionnel : couleur de fond pour le conteneur */
+}
+
+.tips
+{
+    margin: auto;
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+

@@ -10,6 +10,8 @@
 
         <a href="leadership.php">Leadership</a>
 
+        <a href="civic_engagement.php">Civic engagement</a>
+
         <div class="dropdown">
             <button class="dropbtn"> Professional engagement
                 <i class="fa fa-caret-down"></i>
